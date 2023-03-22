@@ -1,0 +1,54 @@
+.header {
+width: 100%;
+background-color: blue;
+color: white;
+font-size: 48px;
+text-align: center;
+padding: 30px;
+}
+body {
+    margin: 0;
+}
+.cities button {
+    display:block;
+    width: 400px;
+    background-color: lightgray;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    text-align: center;
+    padding: 5px;
+}
+.search-title {
+    font-size: 36px;
+}
+
+.search-button {
+    display:block;
+    width: 400px;
+    background-color: deepskyblue;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    text-align: center;
+    padding: 5px;
+}
+
+.left {
+    padding: 10px;
+}
+input {
+    width: 400px;
+    font-size: 24px;
+    height: 75px;
+}
+
+.stats{
+border: 2px solid black;
+}
+
+.city-name{
+font-size: 36px;
+font-weight: 600;
+}
