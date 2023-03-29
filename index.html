@@ -11,32 +11,59 @@
  <div class="header">
     weather dashboard
  </div>
- <div>
+ <div class = "container">
     <div class="left">
         <h2 class = "search-title">Search for a City:</h2> 
-        <input type="text">
-        <div><button class = "search-button">search</button></div>
+        <input type="text" id = "city-input">
+        <div><button id = "search" class = "search-button">search</button></div>
         <div class = "cities">
-            <button>Atlanta</button>
-            <button>Denver</button>
-            <button>Seattle</button>
-            <button>San francisco</button>
-            <button>Denver</button>
-            <button>Orlando</button>
-            <button>New york</button>
-            <button>Chicago</button>
-            <button>Austin</button>
         </div>
     </div>
+    <div class = "right">
+        <div class = "stats">
+            <h2 id = "cityname" class = "city-name"></h2>
+            <div id = "temp">Temp: </div>
+            <div id = "wind">wind: </div>
+            <div id = "humidity">Humidity: </div>
+        </div>
+        <div class = "days">
+            <h2>5-Day Forecast:</h2>
+            <div class = "day-parent">
+                <div class = "day">
+                    <h4 id="date1"></h4>
+                    <div id = "temp1">Temp: </div>
+                    <div id = "wind1">wind: </div>
+                    <div id = "humidity1">Humidity: </div>
+                </div>
+                <div class = "day">
+                    <h4 id = "date2"></h4>
+                    <div id = "temp2">Temp: </div>
+                    <div id = "wind2">wind: </div>
+                    <div id = "humidity2">Humidity: </div>
+                </div>
+                <div class = "day">
+                    <h4 id = "date3"></h4>
+                    <div id = "temp3">Temp: </div>
+                    <div id = "wind3">wind: </div>
+                    <div id = "humidity3">Humidity: </div>
+                </div>
+                <div class = "day">
+                    <h4 id = "date4"></h4>
+                    <div id = "temp4">Temp: </div>
+                    <div id = "wind4"> wind: </div>
+                    <div id = "humidity4">Humidity: </div>
+                </div>
+                <div class = "day">
+                    <h4 id = "date5"></h4>
+                    <div id = "temp5">Temp: </div>
+                    <div id = "wind5">wind: </div>
+                    <div id = "humidity5">Humidity: </div>
+                </div>
+            </div>
+            
+        </div>
+     </div>   
  </div>
- <div>
-    <div class = "stats">
-        <h2 class = "city-name">Atlanta (9/13/2022)</h2>
-        <div>Temp: 76.62 f</div>
-        <div>wind: 8.43 MPH</div>
-        <div>Humidity: 44 %</div>
-    </div>
- </div>   
 </body>
 <script src="app.js">
 </script>
