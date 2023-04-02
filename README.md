@@ -3,7 +3,7 @@
 # Weather Dashboard
 
 ## Description
-This application involved creating a weather dashboard showing a 5 day forecast across differenet cities using HTML, CSS and Javascript. Data was accessed by use of third-party API and local storage enabled the user to access search history. The user would be able to access predicted weather conditions such as wind, temperature and humidity to then plan activities such as travel.
+This application involved creating a weather dashboard showing a 5 day forecast across different cities using HTML, CSS and Javascript. Data was accessed by use of third-party API and local storage enabled the user to access search history. The user would be able to access predicted weather conditions such as wind, temperature and humidity to then plan activities such as travel.
 
 ## Installation
 
