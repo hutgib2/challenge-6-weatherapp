@@ -19,7 +19,7 @@ A screenshot shows shows the weather dashboard as below:
 
 ## Usage
 
-The URL of the functional, deployed application on GitHub Pages:
+The URL of the functional, deployed application on GitHub Pages:https://hutgib2.github.io/challenge-6-weatherapp/
 
 URL of the GitHub repository:https://github.com/hutgib2/challenge-6-weatherapp
 
