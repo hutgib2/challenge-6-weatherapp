@@ -21,7 +21,7 @@ A screenshot shows shows the weather dashboard as below:
 
 The URL of the functional, deployed application on GitHub Pages:
 
-URL of the GitHub repository:
+URL of the GitHub repository:https://github.com/hutgib2/challenge-6-weatherapp
 
 
 
