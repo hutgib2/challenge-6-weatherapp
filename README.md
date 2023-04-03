@@ -11,7 +11,7 @@ To use the application, open the weather app via index.html in the browser to vi
 
 A screenshot shows shows the weather dashboard as below: 
 
-![screenshot] (assets/weather.png)
+![screenshot](assets/weather.png)
 
 ## Usage
 
